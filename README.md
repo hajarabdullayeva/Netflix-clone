@@ -1,15 +1,32 @@
 # It's Movie Time 🎥
 
-### Task 🎯
+### Netflix Clone 
 
 
-Create ***Netflix clone*** app as specified in [Figma file](https://www.figma.com/file/TuORiMcATm79nwG5X1lyWZ/Netflix-Clone-(Community)?node-id=0%3A1)
+- ***Netflix clone*** app figma template:  [Figma file](https://www.figma.com/file/TuORiMcATm79nwG5X1lyWZ/Netflix-Clone-(Community)?node-id=0%3A1)
+- Live site URL: 
 
-❗Api for getting all the latest ***movies*** - [TMDB](https://www.themoviedb.org/)
 
+## Overview 
 
-You need:
+### The challange 
+
+User should able to :
 - Display all the movies with its own categories
 - Show trailer of selected movie.
 - Split **Categories** and **Movie** into reusable components
-- Use **Styled-components** or **Tailwind css**
+- Get information about selected movie on the main part
+
+## Used technologies 
+
+### Built with
+
+- Semantic HTML5 markup
+- Javascript
+- React
+- Styled-components
+- [API](https://developers.themoviedb.org/3/getting-started/introduction)
+
+## Author
+
+- GitHub - [Hajar Abdullayeva](https://github.com/hajarabdullayeva)
