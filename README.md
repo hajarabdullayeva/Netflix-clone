@@ -4,7 +4,7 @@
 
 
 - ***Netflix clone*** app figma template:  [Figma file](https://www.figma.com/file/TuORiMcATm79nwG5X1lyWZ/Netflix-Clone-(Community)?node-id=0%3A1)
-- Live site URL: 
+- Live site URL: https://netflic-clone-by-hajar.netlify.app/
 
 
 ## Overview 
