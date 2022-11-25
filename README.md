@@ -17,7 +17,7 @@ User should able to :
 - Split **Categories** and **Movie** into reusable components
 - Get information about selected movie on the main part
 
-## Used technologies 
+## Used Technologies 
 
 ### Built with
 
